@@ -34,7 +34,7 @@ The app is not directed at children under 13 and does not knowingly collect thei
 Delete a song in the app, or uninstall the app to remove all songs, recordings and settings from your phone. Copies you exported or backed up are under your control.
 
 ## Contact
-Questions about privacy: {EMAIL}
+Questions about privacy: [lyrichord.songs@gmail.com](mailto:lyrichord.songs@gmail.com)
 
 ## Changes
 If this policy changes, we will update the date above and, for important changes, tell you in the app.
