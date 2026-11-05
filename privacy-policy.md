@@ -1,6 +1,6 @@
 # Lyrichord Privacy Policy
 
-_Last updated: November 4, 2026_
+_Last updated: November 5, 2026_
 
 Lyrichord is a songwriting notebook: you write lyrics, put chords over them, play the chords and record your voice. This policy explains what happens to your data. In short: **your songs and recordings stay on your phone.** The app sends only anonymous crash reports and feature-usage counts, and you can turn that off.
 
@@ -22,7 +22,9 @@ If you tap the microphone to say chords, your phone's speech recognition service
 - When you choose **Back up all songs**, **Share as PDF** or **Copy for Suno**, the file or text goes only where you send it (for example Google Drive, email or another app).
 
 ## Purchases
-Subscriptions are handled by **Google Play**. We do not receive your card details. We only learn whether your subscription is active, to unlock Pro features.
+Subscriptions are paid through **Google Play**. We do not receive your card details, name or email.
+
+To check whether Pro is active, the app uses **RevenueCat**, a subscription service. RevenueCat receives a random app user ID created by the app, your purchase details from Google Play (which plan, purchase and renewal dates, price and currency, store country) and basic device information (app version, Android version). It does not receive your songs, recordings or Google account. RevenueCat processes this data on our behalf under its [privacy policy](https://www.revenuecat.com/privacy). Purchase records are kept while your subscription is active and as long as needed for accounting and tax obligations.
 
 ## Crash reports and usage statistics
 To fix crashes and see which features help people, the app uses **Firebase Crashlytics** and **Google Analytics for Firebase**, services provided by Google.
@@ -35,13 +37,15 @@ To fix crashes and see which features help people, the app uses **Firebase Crash
 You can turn both off at any time in **Settings → Help improve Lyrichord**.
 
 ## Ads
-The app shows no ads and does not sell or share personal data.
+The app shows no ads and does not sell personal data or share it for advertising. The services named above (Google Firebase, RevenueCat) process data only on our behalf.
 
 ## Children
 The app is not directed at children under 13 and does not knowingly collect their data.
 
 ## Deleting your data
 Delete a song in the app, or uninstall the app to remove all songs, recordings and settings from your phone. Copies you exported or backed up are under your control.
+
+To have crash reports, usage statistics or purchase records deleted from Firebase and RevenueCat, email us from the address in the Contact section. Records we must keep by law (for example for tax) are kept only as long as required.
 
 ## Contact
 Questions about privacy: [lyrichord.songs@gmail.com](mailto:lyrichord.songs@gmail.com)
