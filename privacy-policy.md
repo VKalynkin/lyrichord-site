@@ -1,18 +1,21 @@
 # Lyrichord Privacy Policy
 
-_Last updated: November 5, 2026_
+_Last updated: November 17, 2026_
 
 Lyrichord is a songwriting notebook: you write lyrics, put chords over them, play the chords and record your voice. This policy explains what happens to your data. In short: **your songs and recordings stay on your phone.** The app sends only anonymous crash reports and feature-usage counts, and you can turn that off.
 
 ## What stays on your device
 - **Songs** (lyrics, chords, titles) are stored as files on your phone.
-- **Voice recordings** you make over the chords are stored on your phone.
+- **Voice recordings** you make over the chords and **voice notes** (Ideas) are stored on your phone.
 - **Settings** (language, headphone latency, stage mode text size) are stored on your phone.
 
 We do not have servers that receive your songs or recordings, and we cannot see them.
 
 ## Microphone
-The app asks for microphone access only to record your voice over the chords and, if you use it, to dictate chords by voice. Recording happens only while you press Record or the microphone button.
+The app asks for microphone access only for these features, and uses the microphone only while you use them:
+- recording your voice over the chords, and voice notes (Ideas), saved on your phone;
+- the **tuner**, which listens to find the note of your string and saves nothing;
+- dictating chords by voice, if you use it.
 
 ## Voice chord entry
 If you tap the microphone to say chords, your phone's speech recognition service turns your speech into text. On most Android phones this is Google's speech service, which may process the audio on Google's servers under [Google's Privacy Policy](https://policies.google.com/privacy). The app receives only the recognised text and keeps only the chords. You can always type chords instead.
